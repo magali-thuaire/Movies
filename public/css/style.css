@@ -1,0 +1,22 @@
+
+header {
+    padding: 2em 2em 0 !important;
+}
+
+main {
+    padding: 0 2em 2em !important;
+}
+
+form .comments {
+  font-style: italic;
+  font-size: 1em;
+  color: #DC2346;
+  height: 25px;
+}
+
+form .thank-you {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 1em;
+}
